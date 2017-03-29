@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Projects</string>
+    <string name="openDrawer">Open navigation drawer</string>
+    <string name="closeDrawer">Close navigation drawer</string>
+    <string name="project">Add Project</string>
+    <string name="task">Add Task</string>
+    <string name="comment">Add Comment</string>
+    <string name="project_name">Enter</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="date">Date</string>
+</resources>
